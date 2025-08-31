@@ -13,3 +13,29 @@ You can install the dependencies by running:
 pip install -r requirements.txt
 ```
 
+###  Example of the output: Single-Cell Dynamics -- temporal evolution of fluorescence and migration
+
+![Pipeline Overview](./Figures/animation_Tu_12.gif)
+This animated example demonstrates the temporal progression of fluorescence intensity and migration (also contact) behaviour of an individual tumour cell.
+
+
+
+---
+
+### Getting Started
+
+Please check the `tutorial.ipynb` for detailed instructions.
+
+All scripts used in this analysis are located in the `./Cyto-Visual` folder.
+
+---
+
+### Notes on Demonstration Notebook
+
+Due to file size limitations, all demonstration figures have been stripped out of the GitHub version of `tutorial.ipynb`.
+
+However, a full version of the notebook with figures is available here (Imperial College users only):
+
+🔗 [View full notebook with figures](https://imperiallondon-my.sharepoint.com/:u:/g/personal/eu23_ic_ac_uk/EaBoyv_kXF1GnC3aIKC4hHMBvxxCVeOU45U2emkjyaiJdg?e=0Tg4NM)
+
+**Note:** Access is currently restricted to Imperial College London accounts. Public access will be enabled soon.
