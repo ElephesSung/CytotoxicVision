@@ -4,7 +4,7 @@ This repository provides a complete for analysing time-lapse fluorescence micros
 
 ##  Workflow Steps
 
-
+![Pipeline Overview](./Figure/Cyto_Visual.jpg)
 
 
 
