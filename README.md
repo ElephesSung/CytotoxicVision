@@ -47,7 +47,7 @@ However, a full version of the notebook with figures is available here (Imperial
 
 If you use this work in your research, please cite it as:
 
-> Elephes Sung, Cathal Hosty, Daniel O'Halon, & Ruben Perez-Carrasco. (2025). *CytotoxicVision: A Pipeline for Single-Cell Tracking and Fluorescence Analysis*. Zenodo. https://doi.org/10.5281/zenodo.17011641
+> Elephes Sung, Cathal Hosty, Daniel O'Halon, & Ruben Perez-Carrasco. (2025). *CytotoxicVision*. Zenodo. https://doi.org/10.5281/zenodo.17011641
 
 <details>
 <summary>📚 <strong>BibTeX</strong></summary>
