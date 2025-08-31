@@ -1,0 +1,16 @@
+IPython
+btrack
+celldetective
+cellpose
+czifile
+ipywidgets
+matplotlib
+nd2reader
+numpy
+pandas
+pims
+scipy
+seaborn
+skimage
+sklearn
+tqdm
