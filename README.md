@@ -39,3 +39,25 @@ However, a full version of the notebook with figures is available here (Imperial
 🔗 [View full notebook with figures](https://imperiallondon-my.sharepoint.com/:u:/g/personal/eu23_ic_ac_uk/EaBoyv_kXF1GnC3aIKC4hHMBvxxCVeOU45U2emkjyaiJdg?e=0Tg4NM)
 
 **Note:** Access is currently restricted to Imperial College London accounts. Public access will be enabled soon.
+
+
+---
+
+## Citation
+
+If you use this work in your research, please cite it as:
+
+> Elephes Sung, Cathal Hosty, Daniel O'Halon, & Ruben Perez-Carrasco. (2025). *CytotoxicVision: A Pipeline for Single-Cell Tracking and Fluorescence Analysis*. Zenodo. https://doi.org/10.5281/zenodo.17011641
+
+<details>
+<summary>📚 <strong>BibTeX</strong></summary>
+@software{cytotoxicvision_2025,
+  author       = {Elephes Sung and Cathal Hosty and Daniel O'Halon and Ruben Perez-Carrasco},
+  title        = {CytotoxicVision: A Pipeline for Single-Cell Tracking and Fluorescence Analysis},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17011641},
+  url          = {https://doi.org/10.5281/zenodo.17011641}
+}
+</details>
+
